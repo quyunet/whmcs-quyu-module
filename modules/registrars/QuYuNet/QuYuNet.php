@@ -55,7 +55,7 @@ function QuYuNet_getConfigArray() {
 		),
 		"api_key" => array(
 			"FriendlyName"  => "API Key",
-			"Type"          => "text",
+			"Type"          => "password",
 			"Size"          => "40",
 			"Description"   => "Enter your API key recived from provider"
 		),
